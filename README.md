@@ -6,6 +6,6 @@ TO RUN project -
 
 Save the project in c/xampp/htdocs/(downloaded folder)
 Open xampp server - Start Apache and Mysql open php my admin
-Create Database named 'bank' and import the sql file(provided in database folder)
+Create Database named 'bank1' and import the sql file(provided in database folder)
 Open chrome and type localhost/banking/index.php
 For Demo you can check My website: "https://scarabaeid-jeopardy.000webhostapp.com/"
