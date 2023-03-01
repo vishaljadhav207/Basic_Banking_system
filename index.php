@@ -30,7 +30,7 @@
   <!-- _______NAVIGATION BAR_______ -->
   <div id="title">
     <nav id="navbar" class="navbar navbar-expand-lg navbar-dark ">
-      <a id="navbar-brand" href="index.php">vishal's<span>  Bank</span></a>
+      <a id="navbar-brand" href="index.php">Vishal's<span>  Bank</span></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
         aria-controls="navbarTogglerDemo01" aria-expanded"false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
