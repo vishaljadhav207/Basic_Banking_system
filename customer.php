@@ -85,7 +85,7 @@
             <td>'.$row["balance"].'</td>
         </tr>';
           }
- echo'</table>';
+ echo'</table>';//This addition finalizes the display of customer data in a table format.
 
 ?><br>
   <form action="select.php" method="POST" style="text-align:center">
