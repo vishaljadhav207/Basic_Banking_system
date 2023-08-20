@@ -76,7 +76,7 @@
      
      // Execute the query
         $result=mysqli_query($con,$sql);
-        while($row=mysqli_fetch_array($result)){
+        while($row=mysqli_fetch_array($result)){//It fetches each row as an associative array using mysqli_fetch_array(), and then outputs the retrieved data within an HTML table row 
             // var_dump($row);
             echo '<tr>
             <td>'.$row["id"].'</td>
